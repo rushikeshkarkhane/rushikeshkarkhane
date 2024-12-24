@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next js, typescript**
 
-- 💬 Ask me about **React,html,css, javascript**
+- 💬 Ask me about **Html,Css, Javascript,React,Nodejs,Mongodb,experess,php**
 
 - 📫 How to reach me **karkhanerushikesh@gmail.com**
 
